@@ -1,0 +1,10 @@
+name: krisgholson-www
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm
+description: krisgholson website
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: https://www.pulumi.com/ai/api/project/b7a6e85d-2d26-4c46-ab40-36bf009bb378.zip

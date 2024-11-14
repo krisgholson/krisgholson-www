@@ -1,4 +1,4 @@
-{% for i in (1..23) %}
+{% for i in (1..24) %}
 * [Chapter {{ i }}]({{ i }})
 {% endfor %}
 

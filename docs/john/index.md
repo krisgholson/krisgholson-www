@@ -7,7 +7,10 @@
 1. (13:34) Compare/contrast the new commandment that Jesus gives His Apostles with his summary of the greatest commandment. [Matt 22:36-40](https://www.biblegateway.com/passage/?search=Matt%2022%3A36-40&version=RSVCE)
 1. (13:34) What does Jesus mean by "love"? How did Jesus love the Apostles? How do we (or should we) follow this new commandantment today?
 1. (14: 2-6) "Jesus is the way, and the truth, and the life" - the only way to get to the Father (and Heaven) is through Him. He told His disciples as much earlier in his ministry when he compared Himself to Jacob's Ladder. [John 1:51](https://www.biblegateway.com/passage/?search=John%201%3A51&version=RSVCE), [Gen 28:11-17](https://www.biblegateway.com/passage/?search=Gen%2028%3A11-17&version=RSVCE) Read what Jacob says in [Gen 28:17](https://www.biblegateway.com/passage/?search=Gen%2028%3A17&version=RSVCE).Does this provide even more context to Jesus' words that He will prepare a place for them in His Father's house?
-
+1. (14: 8-11) Jesus response to Philip's request doesn't reveal the fullness of the Trinity yet but what did it reveal to the Apostles?
+1. (14:12) How do Christians do the works that Jesus does? What are some examples of works greater than Jesus' works that Christians did or continue to do?  Does "greater" mean greater in number or greater in quality? (see ["Greater Works Than These](https://www.catholic.com/magazine/online-edition/greater-works-than-these) for some examples/ideas related to quality, also see [St. Augustines Tract 71](https://www.newadvent.org/fathers/1701071.htm) - paragraph 3, [St. Augustines Tract 72](https://www.newadvent.org/fathers/1701072.htm)) Who and what make possible the greater works?
+1. (14:13-14) Does Jesus do whatever Christians ask in His name? Is this promise for all Christians or just for the Apostles in the upper room? What does it mean to ask something in His name?
+1. 
 
 
 ### Scripture
